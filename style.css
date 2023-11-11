@@ -1,0 +1,29 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@100&family=Poppins:wght@100&display=swap');
+</style>
+
+.a{
+    margin-left: 10px;
+}
+.b{
+    position:absolute;
+    top:300px;
+    left:100px
+}
+.c{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container1
+{
+    text-align:center;
+    width:300px;
+    height:400px
+
+}
+.btn1{
+    position:relative;
+    left:80px;
+}
